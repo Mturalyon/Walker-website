@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: $font-sans-serif;
+    background-color: $color-bg-grey;
+    min-height: 100vh;//making footer stick to bottom
+    display: flex;
+    flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}

@@ -1,0 +1,1 @@
+export const baseUrl = "http://localhost:1337"; //i do not put a / at the end with the purpose of prepending image URLs

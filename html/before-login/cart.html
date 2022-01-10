@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+        content="Welcome to Walker, we sell the newest addition of shoes fitting for a good workout. Not only do we focus on shoes that assist with your exercise, but also increases looks with flawless designs.">
+    <meta name="keywords" content="fitness, shoes, e-commerce, style, running, gym, fashion">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400&display=swap"
+        rel="stylesheet">
+    <script src="https://kit.fontawesome.com/944d42a4bf.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="../../css/style.css">
+    <title>Walker - Cart</title>
+</head>
+
+<body>
+    <nav>
+        <div class="nav-items-container">
+            <div class="nav-col">
+                <a href="/index.html"><img src="/img/logo.png" alt="logo of the company"></a>
+                <button class="hamburger" id="hamburger">
+                    <i class="fas fa-bars"></i>
+                </button>
+            </div>
+            <ul class="default-ul">
+                <li><a href="/index.html">Home</a></li>
+                <li><a href="/html/before-login/products.html">Products</a></li>
+                <li><a href="/html/before-login/login.html" class="login-link">Login</a></li>
+                <li><a href="/html/before-login/cart.html" class="shopping active"><i class="fas fa-shopping-cart"><span
+                                class="cart-item-number"></span></i></a>
+                </li>
+            </ul>
+        </div>
+        <div class="nav-items-container after-login">
+            <h3 class="username">User</h3>
+            <ul>
+                <li><a href="/html/after-login/add-product.html">Add +</a></li>
+                <li><a href="" class="logout-btn">Logout</a></li>
+                <li><a href="/html/after-login/admin.html" class="shopping"><i class="fas fa-user"></i></a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <main class="cart-main">
+        <div class="width-container">
+
+            <div class="cart-container">
+                <h1>Your Products</h1>
+                <div class="cart-items-container">
+
+                </div>
+            </div>
+            <div class="cart-container total-price-container">
+                <h3 class="total-price-text">Total Price:</h3>
+                <h3 class="total-price">0.00$</h3>
+            </div>
+
+        </div>
+    </main>
+
+    <footer>
+        <div class="socials-container">
+            <p>Follow us on:</p>
+            <ul>
+                <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+            </ul>
+        </div>
+        <p>© Copyright 2021</p>
+    </footer>
+
+    <script src="/js/cart.js" type="module"></script>
+</body>
+
+</html>
