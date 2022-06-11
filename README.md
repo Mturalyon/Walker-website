@@ -1,7 +1,8 @@
 # Walker-website
  Semester Project 2 
 
-![image](https://user-images.githubusercontent.com/52622303/164316813-4b12d99f-aeb7-4069-85cf-e72b3a50ac99.png)
+![screencapture-marius-saeteraas-semester-project-2-netlify-app-index-html-2022-06-11-16_29_35](https://user-images.githubusercontent.com/71336754/173192165-21cd2875-73d9-4a84-a0b7-a96e5c0d3628.png)
+
 
 A simple overview of the use/purpose of the project.
 
@@ -21,6 +22,7 @@ You can list a the tech stack that you've used over here
 
 - [React.js](https://reactjs.org/)
 - [Bootstrap](https://getbootstrap.com)
+
 
 ## Getting Started
 
