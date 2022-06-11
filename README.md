@@ -42,24 +42,20 @@ An option to logout of the admin section should also be provided.
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:NoroffFEU/portfolio-1-example.git
+git clone git@github.com:Mturalyon/walker-website.git
 ```
 
-2. Install the dependencies:
+2. Download the Strapi repo, direct to /strapi-sp2-master folder and follow instructions on the readme.md file:
 
-```
-npm install
-```
+[Strapi repo](https://github.com/Mturalyon/walker-strapi)
+
 
 ### Running
 
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
+To run the app, do the following:
 
-To run the app, run the following commands:
-
-```bash
-npm run start
-```
+1. Start up your Strapi on localhost following readme.md instructions.
+2. Open the index.html on your browser. We recommend to use the liveserver application.
 
 ## Contributing
 
