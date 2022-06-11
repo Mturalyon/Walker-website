@@ -4,17 +4,28 @@
 ![screencapture-marius-saeteraas-semester-project-2-netlify-app-index-html-2022-06-11-16_29_35](https://user-images.githubusercontent.com/71336754/173192165-21cd2875-73d9-4a84-a0b7-a96e5c0d3628.png)
 
 
-A simple overview of the use/purpose of the project.
+This project was about creating an e-commerce website that had both customer and admin section, using a provided Strapi.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+The website should be able to allow customers to click on specific items, view them in detail and and aswell add them in a basket.  
+They should also have the option to search through items.  
+Lastly they should be able to see all the products in the basket with a total price amount.  
+  
+On the admin side of the website. The user should be able to login with correct credentials.  
+They should also be able to edit/create/delete products.  
+An option to logout of the admin section should also be provided.  
 
-You can add some bullet points if you'd like to:
+### Pages
 
-- List item 1
-- List item 2
-- List item 3
+- Home
+- Products
+- Product Detail
+- Cart
+- Login
+- Admin
+- Edit Product
+- Add Product
 
 ## Built With
 
