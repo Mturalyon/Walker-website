@@ -29,10 +29,10 @@ An option to logout of the admin section should also be provided.
 
 ## Built With
 
-You can list a the tech stack that you've used over here
-
-- [React.js](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com)
+- [JavaScript](https://www.javascript.com/)
+- [Bootstrap](https://getbootstrap.com)  
+- [Strapi](https://strapi.io/)  
+- [Sass](https://sass-lang.com/)
 
 
 ## Getting Started
